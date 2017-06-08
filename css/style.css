@@ -4,22 +4,30 @@ army green: 41521F;
 */
 *{
 	font-family: 'Lato', sans-serif;
+	margin: 0;
+	padding: 0;
 }
 
-.navbar{
-	background-image: url(../img/portada.jpg);
+.first-section{
+	background: transparent;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	}
+
+.container-fluid{
+	background: url(../img/portada.jpg);	
 	height:150vh;
 	width: 100vw;
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center: 
-
+	
 }
+
 
 
 /*Second-section*/
 
-.img-responsive{
-	 width: 600px; 
-	 height: 600px;
+li a{
+	color: white;
+	font-weight: 100;
+	right: 100%;
 }
