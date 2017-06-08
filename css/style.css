@@ -2,3 +2,24 @@
 wood brown: A89F68;
 army green: 41521F;
 */
+*{
+	font-family: 'Lato', sans-serif;
+}
+
+.navbar{
+	background-image: url(../img/portada.jpg);
+	height:150vh;
+	width: 100vw;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center: 
+
+}
+
+
+/*Second-section*/
+
+.img-responsive{
+	 width: 600px; 
+	 height: 600px;
+}
