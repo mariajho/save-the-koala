@@ -6,6 +6,7 @@ army green: 41521F;
 	font-family: 'Lato', sans-serif;
 	margin: 0;
 	padding: 0;
+
 }
 
 .navbar{
@@ -19,11 +20,11 @@ army green: 41521F;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
-	}
+}
 
 ul li a{
 	color: white;
-	}
+}
 
 .texto{
 	color: white;
@@ -48,6 +49,7 @@ ul li a{
 	padding-top: 200px;
 	font-size: 15px;
 	color: #A89F68;
+	font-weight: bold;
 }
 
 .texto-koalas{
@@ -71,3 +73,48 @@ ul li a{
 #parrafo1{
 	color: #A89F68;
 }
+
+/*third-second*/
+
+.third-second{
+    background-color: #A1AB52;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.cosita-col{
+    margin-top: 40px;
+}
+
+.col_koala h3{
+    color: #A89F68;
+}
+
+.col_koala p a{
+    color: #A89F68;
+}
+
+#easy{
+    font-weight: bold;
+    color: white;
+    font-size: 15px;
+}
+
+#texto3{
+    font-weight: bold;
+    color: #41521F;
+    font-size: 1.5em;
+}
+
+.parr{
+	font-weight: bold;
+    color: white;
+    font-size: 1.1em;
+}
+
+#cosita{
+    width: 100%;
+    border: 10px solid white;
+    margin-right: 50px;
+}
+
