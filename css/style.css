@@ -149,3 +149,99 @@ ul li a{
 	color: white;
 	font-size: 10px;
 }
+
+/*five-second*/
+.five-second{
+	color: #A89F68;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.cinco{
+	margin:5%;
+}
+
+.textcinco{
+	margin-top: 2%;
+	color: #082A61;
+}
+
+#icono{
+	color: #A89F68;
+	font-size: 60px;
+	margin-bottom: 10%;
+}
+
+.titulocinco{
+	color: #A89F68;
+	font-weight: bold;
+}
+/*six-second*/
+.seis{
+	background-color: #A1AB52;
+
+}
+
+.tituloseis{
+	color: #41521F;
+	font-weight: bold;	
+	margin-top: 50px;
+
+}
+.textseis{
+	color: #41521F;
+	padding: 30px;
+	
+}
+
+.num{
+	color: white;
+	font-size: 70px;
+}
+
+.linea{
+	border-bottom: 1px solid white;
+	margin: 10%;
+}
+
+#donate{
+	margin-bottom: 10%;
+}
+
+#dolar{
+	color: white;
+	position: absolute;
+	margin-left: -50px;
+	margin-top: 20px;
+}
+
+.aud{
+	color: white;
+	position: absolute;
+	margin-left: 55%;
+	margin-top: -35px;
+
+}
+
+
+/*footer*/
+.pie{
+	background-color: #41521F;
+	padding:50px;
+	color: #A89F68;
+}
+
+.verde{
+	color: #A89F68;
+	
+	
+}
+
+.blanco{
+	color: white;
+}
+
+#mouse{
+cursor: pointer;
+}
